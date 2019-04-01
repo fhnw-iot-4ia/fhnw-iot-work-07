@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/AYEXV7Wp).*
 
 ### a) MQTT command line, 5'
 * Install the mqtt CLI tool on the Raspberry Pi.
