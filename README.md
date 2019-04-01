@@ -10,7 +10,6 @@ For slides and example code, see [lesson 7](../../../fhnw-iot/blob/master/07/REA
 * Connect to the broker test.mosquitto.org
 * Subscribe to the topic fhnw-iot/names
 * Send your name to the same topic.
-* (Open a second terminal)
 
 ### b) MQTT pub/sub clients, 5'
 * Install the [mqtt](https://github.com/mqttjs/MQTT.js) Node.js library on the Raspberry Pi.
